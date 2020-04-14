@@ -103,6 +103,8 @@ archive_generator:
     daily: false
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ''
+[200~deploy:
+  type: git
+  repo: git@github.com:yt8yt/yt8yt.github.io.git
+  branch: master
 
