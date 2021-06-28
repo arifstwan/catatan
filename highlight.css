@@ -1,0 +1,6 @@
+/* Warna tema pada .que  atau question .formulation soalnya */
+.alert-info, #page-admin-index .releasenoteslink, #adminsettings .form-overridden, .que .formulation {
+background-color: #fff;
+border-color: black;
+color: black;
+}
